@@ -1,4 +1,4 @@
-package financeArgent;
+package financeArgent;	
 import java.util.Date;   
 
 public class Epargne {
